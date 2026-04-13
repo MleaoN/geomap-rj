@@ -73,7 +73,7 @@ The pipeline reads a synthetic CSV containing:
 pip install -r requirements.txt
 
 ### Run the script
-python geomap_script.py
+python geopandas_synthetic_map.py.py
 
 ### Output
 Synthetic_Municipal_Vote_Map_LogScaled.html
